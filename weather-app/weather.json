@@ -1,0 +1,30 @@
+{
+  "coord": { "lon": 106.8451, "lat": -6.2146 },
+  "weather": [
+    { "id": 721, "main": "Haze", "description": "haze", "icon": "50d" }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 305.13,
+    "feels_like": 311.76,
+    "temp_min": 304.76,
+    "temp_max": 306.22,
+    "pressure": 1006,
+    "humidity": 65
+  },
+  "visibility": 5000,
+  "wind": { "speed": 20.12, "deg": 235, "gust": 19.67 },
+  "clouds": { "all": 40 },
+  "dt": 1671601479,
+  "sys": {
+    "type": 2,
+    "id": 2079759,
+    "country": "ID",
+    "sunrise": 1671575760,
+    "sunset": 1671620696
+  },
+  "timezone": 25200,
+  "id": 1642911,
+  "name": "Jakarta",
+  "cod": 200
+}
